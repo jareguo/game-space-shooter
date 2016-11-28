@@ -1,0 +1,61 @@
+{
+  "collision-matrix": [
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      true,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      true,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      true,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      true,
+      false,
+      false,
+      false,
+      false
+    ],
+    [
+      false,
+      false,
+      false,
+      false,
+      false,
+      false
+    ]
+  ],
+  "excluded-modules": [],
+  "group-list": [
+    "default",
+    "player",
+    "player bullet",
+    "enemy",
+    "enemy bullet"
+  ],
+  "start-scene": "current"
+}

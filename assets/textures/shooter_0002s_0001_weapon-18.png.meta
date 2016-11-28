@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "41cf91cb-5a15-4b1d-b683-ced70cd1937b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shooter_0002s_0001_weapon-18": {
+      "ver": "1.0.3",
+      "uuid": "e84d07f3-6bf5-4777-b221-9b5c7419d5a8",
+      "rawTextureUuid": "41cf91cb-5a15-4b1d-b683-ced70cd1937b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 5,
+      "height": 11,
+      "rawWidth": 5,
+      "rawHeight": 11,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
